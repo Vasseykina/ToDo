@@ -1,0 +1,4 @@
+Andrew:Ann=4
+Vasya:
+Ann:Andrew=0:Andrew=1:Andrew=2:Andrew=3:Andrew=2:Andrew=1
+

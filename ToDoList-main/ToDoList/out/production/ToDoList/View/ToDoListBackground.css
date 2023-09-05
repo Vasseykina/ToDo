@@ -1,0 +1,99 @@
+
+body{
+	background: rgb(31, 28, 28);
+   }
+   
+
+
+a{
+	color: white;
+	font-size: 25px; 
+}
+ul{
+	color: black;
+ 	font-weight: 500;
+ 	text-transform: uppercase;
+	 margin: 10px;
+
+}
+
+li{
+	margin: 10px;
+}
+
+.product-wrapper {
+	background-color: yellow;
+	display: block;
+	width: 100%;
+	float: left;
+	transition: width .2s;
+}
+
+	
+
+
+@media only screen and (min-width: 450px) {
+	.product-wrapper {
+		width: 50%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.product-wrapper {
+		width: 33.333%;
+	}
+}
+
+@media only screen and (min-width: 1000px) {
+	.product-wrapper {
+		width: 25%;
+	}
+}
+
+
+
+
+.button{
+	background-color: yellow;
+	color: black;
+	
+
+}
+
+.ListAddButton{
+	background-color: yellow;
+	color: black;
+	
+}
+
+.PButton1{
+
+	position: absolute;
+	bottom: 20px;
+	left: 575px;
+	width: 6%;
+	height: 5%;
+	background-color: white;
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	
+}
+
+.PButton2{
+	position: absolute;
+	bottom: 20px;
+	left: 670px;
+	width: 6%;
+	height: 5%;
+	background-color: white;
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	
+
+
+}
+
+
+  

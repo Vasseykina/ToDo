@@ -1,0 +1,5 @@
+0:Cleaning:vacuum cleaning:laundry
+1:Work:make a report:finish calculating
+2:Shopping:buy bread:buy vegetables:buy meat
+3:Swimming:
+4:Houses:iujhoj
